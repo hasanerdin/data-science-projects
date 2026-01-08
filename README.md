@@ -22,6 +22,10 @@ Each project follows a structured workflow:
 - **Demand Forecasting**  
   Time series forecasting for demand planning and inventory optimization.
 
+- **AI Debate System (RAG, Multi-Agent LLMs)**  
+  Document-driven debate system with user-controlled personas and contextual retrieval.  
+  👉 https://github.com/hasanerdin/inception_debate
+
 ## Tools & Technologies
 Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, Seaborn
 
