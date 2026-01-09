@@ -58,6 +58,9 @@ These findings highlight the trade-off between **short-term growth** and **long-
 
 ```
 discount-impact-analysis/
+├── data
+│ └── raw
+│   └── README.md
 ├── notebooks/
 │ └── discount_impact_analysis.ipynb
 └── README.md
